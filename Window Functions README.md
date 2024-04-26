@@ -1,4 +1,5 @@
 Advanced Data Analysis with SQL Window Functions
+
 Overview
 This project explores advanced data analysis techniques using SQL window functions. By leveraging the capabilities of these functions, data professionals can uncover intricate insights from extensive datasets, tackling complex analytical challenges with ease.
 
