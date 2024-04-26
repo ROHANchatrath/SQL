@@ -17,10 +17,8 @@ Determine the moving average of a numeric column over a specified window of prec
 
 How to Use
 Understanding SQL Window Functions: Familiarize yourself with the concept and syntax of SQL window functions.
-
 Exploring Use Cases: Review the provided examples to grasp the diverse applications of SQL window functions in data analysis.
-
 Applying to Your Data: Adapt the queries to your dataset and analytical requirements, leveraging SQL window functions to derive actionable insights.
 
-Conclusion
+Conclusion: 
 SQL window functions empower data analysts, scientists, and BI professionals to perform sophisticated data analysis tasks efficiently. By mastering these functions, you can elevate your analytical capabilities and unlock deeper insights from your data.
